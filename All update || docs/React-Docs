@@ -1,0 +1,84 @@
+
+create app
+npx create-react-app "app_name"
+
+for using SEO => 
+Helmet
+
+ 
+
+Payment gateway
+ user_Name = Subha@5
+ Pass = Braintree@5
+  
+
+	
+	DO LETTER 
+Fix Layout error (title)
+SEO 2:10
+
+fixed package.json | command || 2:33
+
+if user complt. singup than show the homePage
+	
+
+
+
+        ########################################
+
+
+link:
+https://commerce-js.netlify.app/
+
+
+react video 45
+
+Ecommerce Web Shop 3:29:10 (To learn Ecommerce.js)
+
+read about useAuth() => src/context -> useAuth, 
+ProductController.js => .sort({ createdAt: -1 });
+			.populate("category")
+			 req.fields;
+
+
+
+
+Letter Upgrade:
+password hide and show in singup/login 
+
+
+
+
+
+
+
+
+       
+       ####################################
+
+
+
+
+----------------------------------------
+
+WebRTC
+WEB3 i.e ethereum, smart contrac
+Docker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
