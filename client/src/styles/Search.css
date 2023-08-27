@@ -1,0 +1,54 @@
+.search-products {
+  margin-left: 25px;
+  margin-bottom: 25px;
+  margin-top: 80px;
+}
+
+.search-products h3 {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 1.5;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.search-products .card {
+  background-color: rgba(128, 128, 128, 0.097);
+  width: 18rem;
+}
+
+.search-products .card-name-price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.search-products .card-price {
+  color: green;
+  font-weight: bold;
+}
+.search-products button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.search-products .card-text {
+  color: rgb(90, 89, 89);
+  text-align: left;
+}
+
+.search-products .card img {
+  transition: 0.3s;
+}
+
+.search-products .card img:hover {
+  transform: scale(0.9);
+}
+
+.search-products .card-img-top {
+  height: 300px !important;
+}
